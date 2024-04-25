@@ -1,0 +1,22 @@
+body, h1, h2, p{
+    margin: 0;
+    padding: 0;
+}
+body, input{
+    background-color: #F2F2F2;
+}
+header, footer,  button{
+    background-color: #0C70F2;
+    color: #fff;
+}
+.col{
+    display: flex;
+}
+form{
+    flex-direction: column;
+    background-color: #fff;
+}
+
+a{
+    color: #fff;
+}
